@@ -34,12 +34,12 @@ Contact: mfiorin2@jh.edu
 ## Schedule
 <br>
 <center>
-| Weekday | Date               | Room           | Start Time | End Time |
-|:-------:|:------------------:|:--------------:|:----------:|:--------:|
-| Friday  | September 10, 2025 | 555 Penn, B230 | 6:00pm     | 8:00pm   |
-| Friday  | September 17, 2025 | 555 Penn, B230 | 6:00pm     | 8:00pm   |
-| Friday  | September 24, 2025 | 555 Penn, B230 | 6:00pm     | 8:00pm   |
-| Friday  | October 1, 2025    | 555 Penn, B230 | 6:00pm     | 8:00pm   |
+| Weekday   | Date               | Room           | Start Time | End Time |
+|:---------:|:------------------:|:--------------:|:----------:|:--------:|
+| Wednesday | September 10, 2025 | 555 Penn, B230 | 6:00pm     | 8:00pm   |
+| Wednesday | September 17, 2025 | 555 Penn, B230 | 6:00pm     | 8:00pm   |
+| Wednesday | September 24, 2025 | 555 Penn, B230 | 6:00pm     | 8:00pm   |
+| Wednesday | October 1, 2025    | 555 Penn, B230 | 6:00pm     | 8:00pm   |
 </center>
 
 ---
