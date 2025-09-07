@@ -21,13 +21,12 @@ knitr::include_graphics(
 ```
 
 <center>
-### MIEF Skills Course
 ### Syllabus — Fall 2025
 
-# Introduction to R
+# MIEF Skills Workshop: R
 
 ## Marc-Andrea Fiorina
-Contact: marcandrea.fiorina@gmail.com
+Contact: mfiorin2@jh.edu
 </center>
 
 ---
