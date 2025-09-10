@@ -220,13 +220,13 @@ knitr::include_graphics(
 ```
 
 .content-box-green[
-- Code
-- Data
-  - Raw Data
-  - Intermediate Data
-- Outputs
-- (Optional) Documentation
-- (Optional) Presentations/Slides
+- code
+- data
+  - raw
+  - intermediate
+- output
+- documentation (Optional)
+- slides (Optional)
 ]
 
 ]
@@ -719,13 +719,13 @@ class: center, middle
 
 1— Download the World Values Survey (Wave 7) at this link: [https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp)
 
-2— Set up your data analysis folder. Make sure that it has the following components:
-  - Data
-      - Raw
-      - Intermediate
-  - Code
-  - Outputs
-  - Documentation
+2— Set up your data analysis folder. Make sure that it contains the following folders:
+  - data
+      - raw
+      - intermediate
+  - code
+  - output
+  - documentation
     
 3— Place the data and documentation files that you find appropriate for your analysis in the corresponding folders.
 
@@ -736,10 +736,11 @@ class: center, middle
 ### Today's practical component
 
 5— Set up your R Script. It should have the following components:
-  - Package setup. For now, have the script load the `dplyr`, `data.table`, and `janitor` packages.
+  - Package setup. For now, have the script load the `dplyr`, `data.table`, and `skimr` packages.
   - Data import. Import your data into the script using `read.csv()` or `fread()`. Remember to give your data frame an intuitive name!
     
-6— Test your R Script. Type and run the following line in your code: `[[DATASETNAME]] %>% head()`. If this works without issue, you're free to go!
+6— Test your R Script. Type and run the following line in your code: `skim([[DATASETNAME]])`.
+<br>**Replace [[DATASETNAME]] with the name you gave your dataset.** If this works without issue, you're free to go!
 
 ---
 
