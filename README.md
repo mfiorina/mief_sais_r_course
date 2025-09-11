@@ -10,7 +10,7 @@ Click on the links below to get access to:
 
 - The data [Dropbox folder](https://www.dropbox.com/scl/fo/6m5hzlrc82i04oi0qoam7/h?rlkey=7t9p4bfg90gvoybibb9jf7veq&dl=0)
 
-- The syllabus ([.html](https://mfiorina.github.io/mief_sais_r_course/syllabus/r_course_syllabus.html) or [.pdf](https://mfiorina.github.io/mief_sais_r_course/syllabus/r_course_syllabus.pdf))
+- The syllabus ([.html](https://mfiorina.github.io/mief_sais_r_course/syllabus/mief_r_course_syllabus.html) or [.pdf](https://mfiorina.github.io/mief_sais_r_course/syllabus/mief_r_course_syllabus.pdf))
 
 - Session 1 slides ([.html](https://mfiorina.github.io/mief_sais_r_course/slides/session_1/session_1.html) or [.pdf](https://mfiorina.github.io/mief_sais_r_course/slides/session_1/session_1.pdf))
 
