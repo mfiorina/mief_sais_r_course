@@ -644,7 +644,7 @@ class: center, middle
     - Create empty "code", "data", and "output" folders within it
     - Create an R Project in that folder. Refer back to last week's slides if you're not sure on how to do this. <br></br></li>
 <li> Add your open-source dataset (I strongly recommend downloading or converting it to CSV format) to the "data" folder. <br></br></li>
-<li> Download the "r_template.R" script from the "Course Resources" module on Canvas and place it in the "code" folder. <br></br></li>
+<li> Download the "r_template.R" script from <a href = https://mfiorina.github.io/mief_sais_r_course/>the course landing page</a> and place it in the "code" folder. <br></br></li>
 <li> Write a script that produces and saves a plot using your open-source dataset. </li>
 </ol>
 
