@@ -45,7 +45,7 @@ class: center, middle
 
 ## Session 2
 
-### September 13, 2024
+### September 19, 2025
 
 ---
 
@@ -635,7 +635,7 @@ class: center, middle
 
 ---
 
-### Mid-Course Assignment (**Due on Thursday, September 26**)
+### Mid-Course Assignment (**Due on Wednesday, October 1**)
 
 <ol>
 <li> Find an open-source dataset. Anything will do, there is ton of data out there. If you are looking for inspiration, you can explore the <a href = https://github.com/rfordatascience/tidytuesday>Tidy Tuesday Github repository</a>. <br></br></li>
