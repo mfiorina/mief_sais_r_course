@@ -16,6 +16,7 @@ Click on the links below to get access to:
 
 - Session 2
     - Slides ([.html](https://mfiorina.github.io/mief_sais_r_course/slides/session_2/session_2.html) or [.pdf](https://mfiorina.github.io/mief_sais_r_course/slides/session_2/session_2.pdf))
+    - Script: [session_2.R](https://mfiorina.github.io/mief_sais_r_course/code/session_2.R)
     - For the mid-course assignment: [r_template.R](https://mfiorina.github.io/mief_sais_r_course/code/r_template.R)
 <br>    
 - Session 3 slides [](([.html](https://mfiorina.github.io/mief_sais_r_course/slides/session_3/session_3.html)))
