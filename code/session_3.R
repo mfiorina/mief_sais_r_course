@@ -216,7 +216,7 @@
     # 1. Find mean values for 'importance in life' variables (Q1-6) for countries in another region
     #    than Europe
   
-    # 2. Calculate average 'enthusiasm' for these life subjects in countries in that non-Europe region
+    # 2. Calculate average 'importance' for these life subjects in countries in that non-Europe region
   
     # 3. Perform the same analysis, either on European countries or other countries, for one of
     #    the following group of indicators in the dataset:
