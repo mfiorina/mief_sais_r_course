@@ -341,7 +341,7 @@ class: middle
 
 ---
 
-### End of Course Assignment (**Due on Thursday, October 10**)
+### End of Course Assignment (**Due on Wednesday, October 15**)
 
 .panelset[
 
