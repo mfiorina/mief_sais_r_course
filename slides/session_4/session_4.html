@@ -27,7 +27,7 @@ class: center, middle
 
 ## Session 4
 
-### September 27, 2024
+### October 1, 2025
 
 ---
 
@@ -200,7 +200,8 @@ We can also apply `map()` to a data frame. If we do so, `map()` will apply the s
 
 
 ``` r
-library(palmerpenguins) # A fun practice dataset about penguins!
+library(palmerpenguins, warn.conflicts = FALSE)
+# A fun practice dataset about penguins!
 data(package = 'palmerpenguins')
 # Let's take a glimpse at the dataset:
 penguins %&gt;% glimpse()
@@ -291,14 +292,14 @@ penguins_reshaped %&gt;% glimpse()
 penguins %&gt;%
   mutate(
     across(
-      c(bill_length_mm, bill_depth_mm, flipper_length_mm, body_mass_g, year),
+      c(bill_length_mm, bill_depth_mm, flipper_length_mm, body_mass_g),
       ~ reshape_function(.x)
     )
   )
 penguins %&gt;%
   mutate(
     across(
-      matches("length_mm|depth_mm|body_mass|year"),
+      matches("length_mm|depth_mm|body_mass"),
       ~ reshape_function(.x)
     )
   )
@@ -407,7 +408,7 @@ class: middle
 
 2. Work on your final assignment! The final assignment is to complete the Session 2, 3, and 4 challenges. You can find the challenges rewritten together on the next slide.
     
-**NOTE** — You should refer to documentation for the dataset, which can be found in the "Module" section, "Course Resources" Module on Canvas, for details on the variables and their given values.
+**NOTE** — You should refer to documentation for the dataset, which can be found on [the course's landing page](https://mfiorina.github.io/mief_sais_r_course/), for details on the variables and their given values.
 
 ---
 
@@ -462,7 +463,7 @@ Final deliverable: a .zip file of the the "&lt;b&gt;&lt;span style = "color:red"
 
 - Three scripts in the "code" folder: `session_2_assignment.R`, `session_3_assignment.R`, and `session_4_assignment.R`. You can use the `session_2.R`, `session_3.R`, and `session_4.R` scripts as foundations for your assignment scripts.
 
-- The requisite data in the "data" folder. You should just need the data from the three sessions, which can be found in each session's Module on Canvas.
+- The requisite data in the "data" folder. You should just need the data from the three sessions, which can be found on [the course's landing page](https://mfiorina.github.io/mief_sais_r_course/).
 
 - The outputs from your `session_2_assignment.R` script in the "output" folder.
 
@@ -498,10 +499,10 @@ RStudio, **[RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
 <script>var slideshow = remark.create({
-"highlightStyle": "github",
-"highlightLines": true,
-"countIncrementalSlides": false,
-"slideNumberFormat": "%current%"
+  "highlightStyle": "github",
+  "highlightLines": true,
+  "countIncrementalSlides": false,
+  "slideNumberFormat": "%current%"
 });
 if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   window.dispatchEvent(new Event('resize'));
