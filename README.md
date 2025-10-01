@@ -24,4 +24,6 @@ Click on the links below to get access to:
     - Slides ([.html](https://mfiorina.github.io/mief_sais_r_course/slides/session_3/session_3.html) or [.pdf](https://mfiorina.github.io/mief_sais_r_course/slides/session_3/session_3.pdf))
     - Script: [session_3.R](https://mfiorina.github.io/mief_sais_r_course/code/session_3.R)
 
-- Session 4 slides [](([.html](https://mfiorina.github.io/mief_sais_r_course/slides/session_4/session_4.html)))
+- Session 4
+    - Slides ([.html](https://mfiorina.github.io/mief_sais_r_course/slides/session_4/session_4.html) or [.pdf](https://mfiorina.github.io/mief_sais_r_course/slides/session_4/session_4.pdf))
+    - Script: [session_4.R](https://mfiorina.github.io/mief_sais_r_course/code/session_4.R)
